@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Traffic", "Traffic\Traffic.vcxproj", "{66429F76-F474-44A2-B5F6-0C5BBC4D818F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66429F76-F474-44A2-B5F6-0C5BBC4D818F}.Debug|x64.ActiveCfg = Debug|x64
+		{66429F76-F474-44A2-B5F6-0C5BBC4D818F}.Debug|x64.Build.0 = Debug|x64
+		{66429F76-F474-44A2-B5F6-0C5BBC4D818F}.Debug|x86.ActiveCfg = Debug|Win32
+		{66429F76-F474-44A2-B5F6-0C5BBC4D818F}.Debug|x86.Build.0 = Debug|Win32
+		{66429F76-F474-44A2-B5F6-0C5BBC4D818F}.Release|x64.ActiveCfg = Release|x64
+		{66429F76-F474-44A2-B5F6-0C5BBC4D818F}.Release|x64.Build.0 = Release|x64
+		{66429F76-F474-44A2-B5F6-0C5BBC4D818F}.Release|x86.ActiveCfg = Release|Win32
+		{66429F76-F474-44A2-B5F6-0C5BBC4D818F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A235F1B-3EFE-42FE-B5E8-F9CF38037297}
+	EndGlobalSection
+EndGlobal
