@@ -33,7 +33,7 @@ void orangeLight(bool isOn = false) {
     else digitalWrite(LedOrange, HIGH);
 }
 
-// when ther is in put it should preform this cycle
+// when ther is in put it should preform this cyclem
 void defualtCaycle() {
 
     if (msStart - redMsPrevious > redStay && greenOnOrOff == false) {
