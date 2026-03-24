@@ -18,5 +18,8 @@
     <ClCompile Include="Traffic.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Traffic_with_button.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
